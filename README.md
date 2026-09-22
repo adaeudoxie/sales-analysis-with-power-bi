@@ -43,7 +43,10 @@ The final analysis was presented through a Power BI dashboard that includes:
 - Visualizations highlighting key trends and patterns.
 - Interactive slicers for filtering the analysis.
 - Charts designed to make comparisons and patterns easier to identify.<br>
-*The dashboard can be viewed [here](https://github.com/adaeudoxie/sales-analysis-with-power-bi/blob/main/dashboard.png)*.
+
+### Dashboard Preview
+![Dashboard](main/dashboard.png)  
+*For further viewing, click [here](https://github.com/adaeudoxie/sales-analysis-with-power-bi/blob/main/dashboard.png)*.
 
 ### Interactive Filters
 Slicers were incorporated into the dashboard to allow for interactive filtering and exploration.
