@@ -12,7 +12,7 @@ This project was completed as part of my Data Analytics training at TS Academy. 
 - Incorporate slicers to allow users filter and explore the data dynamically.
 
 ## Dataset
-The datasets were stored in an Excel workbook, and they were imported into Power BI for preparation and analysis before use for dashboard creation.
+The datasets were stored in an Excel workbook, and they were imported into Power BI for preparation and analysis before use for dashboard creation.  
 *The dataset can be viewed [here](https://github.com/adaeudoxie/sales-analysis-with-power-bi/blob/main/dataset.xlsx)*
 
 ## Tools Used
