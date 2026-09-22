@@ -44,12 +44,12 @@ The final analysis was presented through a Power BI dashboard that includes:
 - Interactive slicers for filtering the analysis.
 - Charts designed to make comparisons and patterns easier to identify.<br>
 
-### Dashboard Preview
-![Dashboard](main/dashboard.png)  
-*For further viewing, click [here](https://github.com/adaeudoxie/sales-analysis-with-power-bi/blob/main/dashboard.png)*.
-
 ### Interactive Filters
 Slicers were incorporated into the dashboard to allow for interactive filtering and exploration.
+
+### Dashboard Preview
+![Dashboard](dashboard.png)  
+*For further viewing, click [here](https://github.com/adaeudoxie/sales-analysis-with-power-bi/blob/main/dashboard.png)*.
 
 ## Skills Demonstrated
 Through this project, I demonstrated my ability to:
